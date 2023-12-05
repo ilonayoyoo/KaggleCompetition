@@ -9,8 +9,8 @@ From the competition [homepage](http://www.kaggle.com/c/titanic-gettingStarted).
 ### Goal for this Notebook:
 Show a simple example of an analysis of the Titanic disaster in Python using a full complement of PyData utilities. This is aimed for those looking to get into the field or those who are already in the field and looking to see an example of an analysis done with Python.
 
-####Dataset Description
-####File descriptions
+#### Dataset Description
+#### File descriptions
 
 *    analysisData.csv: Data for building a model
 *    scoringData.csv: Use for applying predictions or scoring
