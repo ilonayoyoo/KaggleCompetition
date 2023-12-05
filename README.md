@@ -1,5 +1,6 @@
 # KaggleCompetition
 About The Data
+kaggle competitions download -c usedcars2023
 
 >This Kaggle Getting Started Competition provides an ideal starting place for people who may not have a lot of experience in data science and machine learning."
 
